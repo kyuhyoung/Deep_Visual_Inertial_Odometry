@@ -1,5 +1,6 @@
 # Deep Visual Inertial Odometry
 
+
 Deep learning based visual-inertial odometry project.
 <br>
 pros:
@@ -9,7 +10,7 @@ pros:
 - No RNN but Kalman filter: Accleration and image fusion for frame-to-frame displacement.
 
 cons:
-- no position correction: drift in position: But SLAM can correct the position drfit.
+- no position correction : drift in position: But SLAM can correct the position drfit.
 
 
 ## Please Cite:
